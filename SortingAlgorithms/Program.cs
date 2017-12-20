@@ -17,6 +17,8 @@ namespace SortingAlgorithms
 			display(arr);
 			//Selection.Sort(arr);
 			//Insertion.Sort(arr);
+			Console.WriteLine("---");
+			//Bubble.Sort(arr);
 			display(arr);
 		}
 	}
