@@ -18,7 +18,7 @@ namespace SortingAlgorithms
 			//Selection.Sort(arr);
 			//Insertion.Sort(arr);
 			Console.WriteLine("---");
-			ReverseBubble.Sort(arr, arr.Length);
+			RecursiveBubble.Sort(arr, arr.Length);
 			//Bubble.Sort(arr);
 			display(arr);
 		}

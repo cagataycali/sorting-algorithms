@@ -1,7 +1,7 @@
 ﻿using System;
 namespace SortingAlgorithms
 {
-	public class ReverseBubble
+	public class RecursiveBubble
 	{
 		public static void Sort(int[] arr, int n)
 		{
