@@ -37,6 +37,7 @@
     <Compile Include="Insertion.cs" />
     <Compile Include="Selection.cs" />
     <Compile Include="Bubble.cs" />
+    <Compile Include="ReverseBubble.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
